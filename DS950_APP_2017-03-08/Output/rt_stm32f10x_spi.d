@@ -1,0 +1,44 @@
+..\Output\rt_stm32f10x_spi.o: ..\drivers\rt_stm32f10x_spi.c
+..\Output\rt_stm32f10x_spi.o: ..\drivers\rt_stm32f10x_spi.h
+..\Output\rt_stm32f10x_spi.o: ..\kernel-include\rtdevice.h
+..\Output\rt_stm32f10x_spi.o: ..\kernel-include\rtthread.h
+..\Output\rt_stm32f10x_spi.o: ..\USER\rtconfig.h
+..\Output\rt_stm32f10x_spi.o: ..\kernel-include\rtdebug.h
+..\Output\rt_stm32f10x_spi.o: ..\kernel-include\rtdef.h
+..\Output\rt_stm32f10x_spi.o: D:\Program Files\Keil\ARM\RV31\INC\stdarg.h
+..\Output\rt_stm32f10x_spi.o: ..\kernel-include\rtservice.h
+..\Output\rt_stm32f10x_spi.o: ..\kernel-include\rtm.h
+..\Output\rt_stm32f10x_spi.o: ..\kernel-include\rtthread.h
+..\Output\rt_stm32f10x_spi.o: ..\kernel-include\spi.h
+..\Output\rt_stm32f10x_spi.o: D:\Program Files\Keil\ARM\RV31\INC\stdlib.h
+..\Output\rt_stm32f10x_spi.o: ..\DeviceDrivers\serial.h
+..\Output\rt_stm32f10x_spi.o: ..\CMSIS\stm32f10x.h
+..\Output\rt_stm32f10x_spi.o: ..\CMSIS\core_cm3.h
+..\Output\rt_stm32f10x_spi.o: D:\Program Files\Keil\ARM\RV31\INC\stdint.h
+..\Output\rt_stm32f10x_spi.o: ..\CMSIS\system_stm32f10x.h
+..\Output\rt_stm32f10x_spi.o: ..\USER\stm32f10x_conf.h
+..\Output\rt_stm32f10x_spi.o: ..\FWlib\inc\stm32f10x_adc.h
+..\Output\rt_stm32f10x_spi.o: ..\CMSIS\stm32f10x.h
+..\Output\rt_stm32f10x_spi.o: ..\FWlib\inc\stm32f10x_bkp.h
+..\Output\rt_stm32f10x_spi.o: ..\FWlib\inc\stm32f10x_can.h
+..\Output\rt_stm32f10x_spi.o: ..\FWlib\inc\stm32f10x_cec.h
+..\Output\rt_stm32f10x_spi.o: ..\FWlib\inc\stm32f10x_crc.h
+..\Output\rt_stm32f10x_spi.o: ..\FWlib\inc\stm32f10x_dac.h
+..\Output\rt_stm32f10x_spi.o: ..\FWlib\inc\stm32f10x_dbgmcu.h
+..\Output\rt_stm32f10x_spi.o: ..\FWlib\inc\stm32f10x_dma.h
+..\Output\rt_stm32f10x_spi.o: ..\FWlib\inc\stm32f10x_exti.h
+..\Output\rt_stm32f10x_spi.o: ..\FWlib\inc\stm32f10x_flash.h
+..\Output\rt_stm32f10x_spi.o: ..\FWlib\inc\stm32f10x_fsmc.h
+..\Output\rt_stm32f10x_spi.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\Output\rt_stm32f10x_spi.o: ..\FWlib\inc\stm32f10x_i2c.h
+..\Output\rt_stm32f10x_spi.o: ..\FWlib\inc\stm32f10x_iwdg.h
+..\Output\rt_stm32f10x_spi.o: ..\FWlib\inc\stm32f10x_pwr.h
+..\Output\rt_stm32f10x_spi.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\Output\rt_stm32f10x_spi.o: ..\FWlib\inc\stm32f10x_rtc.h
+..\Output\rt_stm32f10x_spi.o: ..\FWlib\inc\stm32f10x_sdio.h
+..\Output\rt_stm32f10x_spi.o: ..\FWlib\inc\stm32f10x_spi.h
+..\Output\rt_stm32f10x_spi.o: ..\FWlib\inc\stm32f10x_tim.h
+..\Output\rt_stm32f10x_spi.o: ..\FWlib\inc\stm32f10x_usart.h
+..\Output\rt_stm32f10x_spi.o: ..\FWlib\inc\stm32f10x_wwdg.h
+..\Output\rt_stm32f10x_spi.o: ..\FWlib\inc\misc.h
+..\Output\rt_stm32f10x_spi.o: ..\drivers\board.h
