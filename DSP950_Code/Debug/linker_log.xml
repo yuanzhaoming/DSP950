@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="file:///D:/Program Files/Analog Devices/VisualDSP 5.1.2/System/linker_log.xsl"?>
+<DOCUMENT gen_time='Mon Mar 20 10:42:48 2017
+'>
+<MSG id='03651A78' mid='li3050' type='Informational' suppressed=''>
+<TEXT><![CDATA[Input section(s) were excluded from output section 'seg_swco']]></TEXT>
+<EXTENDED_INFO><![CDATA[The following input section(s) were excluded
+    libc.dlb[irptl.doj](seg_pmco)
+    libc.dlb[irptl.doj](seg_pmco)
+    libc.dlb[irptl.doj](seg_pmco)]]></EXTENDED_INFO>
+</MSG>
+<MSG id='0326FEC8' mid='li3050' type='Informational' suppressed=''>
+<TEXT><![CDATA[Input section(s) were excluded from output section 'seg_pmco']]></TEXT>
+<EXTENDED_INFO><![CDATA[The following input section(s) were excluded
+    libc.dlb[int_cncbl.doj](seg_pmco)
+    libc.dlb[int_cnfl.doj](seg_pmco)
+    libc.dlb[int_cnsl.doj](seg_pmco)
+    libc.dlb[int_cnss.doj](seg_pmco)
+    libc.dlb[int_cntl.doj](seg_pmco)
+    libc.dlb[memset.doj](seg_pmco)
+    libc.dlb[powf.doj](seg_pmco)
+    libc.dlb[set_args.doj](seg_pmco)
+    libc.dlb[set_c.doj](seg_pmco)
+    libc.dlb[sinf.doj](seg_pmco)
+    libdsp.dlb[biquad_vec.doj](seg_pmco)
+    libc.dlb[divrem_s32.doj](seg_pmco)
+    libc.dlb[float_divide.doj](seg_pmco)
+    libc.dlb[int_cncbl.doj](seg_pmco)
+    libc.dlb[int_cnfl.doj](seg_pmco)
+    libc.dlb[int_cnsl.doj](seg_pmco)
+    libc.dlb[int_cnss.doj](seg_pmco)
+    libc.dlb[int_cntl.doj](seg_pmco)
+    libc.dlb[interrup.doj](seg_pmco)
+    libc.dlb[memset.doj](seg_pmco)
+    libc.dlb[powf.doj](seg_pmco)
+    libc.dlb[set_args.doj](seg_pmco)
+    libc.dlb[set_c.doj](seg_pmco)
+    libc.dlb[sinf.doj](seg_pmco)
+    libc.dlb[sure_rti.doj](seg_pmco)
+    libdsp.dlb[biquad_vec.doj](seg_pmco)
+    libc.dlb[divrem_s32.doj](seg_pmco)
+    libc.dlb[float_divide.doj](seg_pmco)
+    libc.dlb[int_cncbl.doj](seg_pmco)
+    libc.dlb[int_cnfl.doj](seg_pmco)
+    libc.dlb[int_cnsl.doj](seg_pmco)
+    libc.dlb[int_cnss.doj](seg_pmco)
+    libc.dlb[int_cntl.doj](seg_pmco)
+    libc.dlb[interrup.doj](seg_pmco)
+    libc.dlb[memset.doj](seg_pmco)
+    libc.dlb[powf.doj](seg_pmco)
+    libc.dlb[set_args.doj](seg_pmco)
+    libc.dlb[set_c.doj](seg_pmco)
+    libc.dlb[sinf.doj](seg_pmco)
+    libc.dlb[sure_rti.doj](seg_pmco)
+    libdsp.dlb[biquad_vec.doj](seg_pmco)]]></EXTENDED_INFO>
+</MSG>
+</DOCUMENT>
